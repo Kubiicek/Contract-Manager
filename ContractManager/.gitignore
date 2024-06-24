@@ -1,1 +1,29 @@
-/bin/
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Logs e temporários
+*.log
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Diretórios binários
+bin/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
